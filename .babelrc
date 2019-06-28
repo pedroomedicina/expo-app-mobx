@@ -1,9 +1,0 @@
-{
-  "presets": ["babel-preset-expo"],
-  "plugins": ["transform-react-jsx-source", "transform-decorators-legacy"],
-  "env": {
-    "production": {
-      "plugins": ["transform-remove-console"]
-    }
-  }
-}
